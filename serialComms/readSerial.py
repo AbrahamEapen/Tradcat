@@ -1,3 +1,4 @@
+#note, this code is for reading ultrasonic rangefinder reading from arduino by raspi
 import serial
 print("serial imported")
 from time import sleep
